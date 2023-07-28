@@ -1,0 +1,8 @@
+*/__pycache__/*
+*.pyc
+*.pth
+*.tar
+*.pt
+*search-EXP-lr_0005_alw_10*
+*moedarts/logs/eval/MoEDARTS_b/*
+data/*
